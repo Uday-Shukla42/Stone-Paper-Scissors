@@ -1,7 +1,7 @@
 # Stone-Paper-Scissors
 Play the game by cloning the project and opening index.html in your browser.
 
-🧩 Features
+# 🧩 Features
 ✔️ Interactive UI with images
 ✔️ Real-time score update
 ✔️ Dynamic game messages (win/lose/draw)
@@ -9,7 +9,7 @@ Play the game by cloning the project and opening index.html in your browser.
 ✔️ Responsive hover effects
 ✔️ Simple and beginner-friendly JavaScript logic
 
-📁 Project Structure
+# 📁 Project Structure
 │── index.html       # Main UI Structure
 │── style.css        # Styling & Layout
 │── app.js           # Game Logic
@@ -18,7 +18,7 @@ Play the game by cloning the project and opening index.html in your browser.
 │── scissors.png     # Scissors Image
 │── README.md
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 HTML5 – Structure
 CSS3 – Styling and animations
 JavaScript (ES6) – Game logic and DOM manipulation
